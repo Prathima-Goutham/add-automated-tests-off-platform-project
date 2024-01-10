@@ -1,0 +1,29 @@
+.heading{
+    background-image: url("../images/pattern.webp");
+    color: rgb(233, 221, 49);
+    height: 200px;
+}
+h1{
+    text-align: center;
+    font-size: 100px;
+}
+.brushes img{
+    width: 20%;
+    height: 20%;
+}
+.brushes h2{
+    background-color: aqua;
+}
+.frames h2{
+    background-color: rgb(255, 0, 140);
+}
+.paint h2{
+    background-color: rgb(0, 119, 255);
+}
+p{
+    display:inline;
+   
+}
+.childp{
+    color: rgb(4, 0, 255);
+}
